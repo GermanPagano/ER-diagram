@@ -1,7 +1,8 @@
 
 <h1 align="center">
   <br>
-  <a href="https://www.linkedin.com/in/gerhpagano/"><img src="https://w7.pngwing.com/pngs/170/924/png-transparent-microsoft-sql-server-microsoft-azure-sql-database-microsoft-text-logo-microsoft-azure.png"></a>
+  <a href="https://www.linkedin.com/in/gerhpagano/"><img src="https://w7.pngwing.com/pngs/170/924/png-transparent-microsoft-sql-server-microsoft-azure-sql-database-microsoft-text-logo-microsoft-azure.png" style='max-height: 200px;'>
+</a>
   <br>
   Markdownify
   <br>
