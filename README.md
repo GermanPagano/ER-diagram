@@ -4,11 +4,9 @@
   <a href="https://www.linkedin.com/in/gerhpagano/"><img src="https://www.ceteris.ag/fileadmin/user_upload/Dateien_Ceteris/Bilder/Illustrationen/Ceteris_Technologien_RGB_Azure_SQL_Database.png" style='max-height: 200px;'>
 </a>
   <br>
-  ER diagram for a university midterm exam.
+  ER diagram for a university midterm exam
   <br>
 </h1>
-
-<h4 align="center">A minimal Markdown Editor desktop app built on top of <a href="http://electron.atom.io" target="_blank">Electron</a>.</h4>
 
 <p align="center">
   <a href="https://badge.fury.io/js/electron-markdownify">
