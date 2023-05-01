@@ -15,7 +15,7 @@
 ## Explanation of the diagram
 
 
-#Película: The movie table meets the requested information requirements in the prompt and I added a PK (PELICULA_ID). It will also have a FK (DIRECTOR_ID) because its cardinality with the Director table is N:1.
+##Película: The movie table meets the requested information requirements in the prompt and I added a PK (PELICULA_ID). It will also have a FK (DIRECTOR_ID) because its cardinality with the Director table is N:1.
 
 #Género: I created the genre table to be able to sort the different types of genres by their ID number (e.g. id: 1= name: Horror, id: 2= name: Action, etc.).
 
