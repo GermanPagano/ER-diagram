@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/gerhpagano/"><img src="https://www.ceteris.ag/fileadmin/user_upload/Dateien_Ceteris/Bilder/Illustrationen/Ceteris_Technologien_RGB_Azure_SQL_Database.png" style='max-height: 200px;'>
 </a>
   <br>
-  Markdownify
+  ER diagram for a university midterm exam.
   <br>
 </h1>
 
